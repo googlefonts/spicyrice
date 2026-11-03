@@ -1,0 +1,6 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+decomposeTransformedComponents: false
+sources:
+  - SpicyRice-Regular.glyphs
